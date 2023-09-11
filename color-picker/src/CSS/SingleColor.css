@@ -1,0 +1,36 @@
+.SingleColor {
+  height: 100vh;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+.SingleColor-colors {
+  height: 100%;
+}
+
+.SingleColor-back {
+  background-color: black;
+}
+
+.back-btn {
+  width: 100px;
+  height: 30px;
+  position: absolute;
+  display: inline-block;
+  top: 50%;
+  left: 50%;
+  margin-left: -50px;
+  margin-top: -15px;
+  text-align: center;
+  outline: none;
+  background: rgba(255, 255, 255, 0.4);
+  font-size: 1rem;
+  line-height: 30px;
+  text-transform: capitalize;
+  border: none;
+  opacity: 1;
+  cursor: pointer;
+  text-decoration: none;
+  color: white;
+}

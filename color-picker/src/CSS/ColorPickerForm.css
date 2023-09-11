@@ -1,0 +1,16 @@
+.ColorPicker {
+  width: 300px !important;
+  margin-top: 2rem;
+}
+
+.CPF-btn {
+  width: 100%;
+  padding: 1rem;
+  margin-top: 1rem;
+  font-size: 2rem;
+}
+
+.CPF-input {
+  width: 100%;
+  height: 70px;
+}
